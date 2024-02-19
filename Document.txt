@@ -1,0 +1,59 @@
+
+
+
+
+
+Project: Desktop Calculator
+Submitted To:
+Amit Kumar Mondol
+Associate Professor
+Computer Science & Engineering Discipline
+Khulna University, Khulna
+
+Submitted By:
+Rownak Jahan Rinti
+Student Id: 210214
+Computer Science & Engineering Discipline
+Khulna University, Khulna
+
+Presentation Layer:
+This layer handles the user interface and user interactions.
+It captures user input and displays output to the user.
+It interacts with the application layer to perform calculations and retrieve results.
+Application Layer:
+The application layer contains the core logic of the calculator.
+It processes input from the presentation layer, performs calculations, and produces results.
+It does not directly interact with the user interface but communicates with the presentation layer to receive input and send output.
+Domain Layer:
+The domain layer encapsulates the business logic and domain-specific rules of the calculator.
+It defines the data types, operations, and rules for performing calculations.
+It ensures the integrity and consistency of calculations and results.
+Data Access Layer:
+For a simple calculator app, a data access layer may not be necessary since there might not be a need to interact with external data sources.
+However, if the calculator app needs to store user preferences, history, or settings, a data access layer could be implemented to manage data storage and retrieval.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
